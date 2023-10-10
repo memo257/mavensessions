@@ -34,5 +34,6 @@
 </body>
 <footer>
     <p>This website uses <strong>sessions</strong>, so you won't need to log in again after turning off the browser </p>
+    <a href="https://memo2572003-cdd24867e0ef.herokuapp.com" class="my-button">My home page</a>
 </footer>
 </html>

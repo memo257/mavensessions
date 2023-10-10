@@ -29,7 +29,7 @@
     <label>&nbsp;</label>
     <input type="submit" value="Register" class="margin_left">
 </form>
-
+<a href="https://memo2572003-cdd24867e0ef.herokuapp.com" class="my-button">My home page</a>
 </body>
 
 </html>

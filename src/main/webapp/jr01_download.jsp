@@ -33,6 +33,6 @@
 <p><a href="?action=viewAlbums">View list of albums</a></p>
 
 <p><a href="?action=viewCookies">View all cookies</a></p>
-
+<a href="https://memo2572003-cdd24867e0ef.herokuapp.com" class="my-button">My home page</a>
 </body>
 </html>
